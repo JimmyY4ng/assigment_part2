@@ -3,7 +3,24 @@
 ## Part 2: Setup Instructions
 
 Follow these instructions to set up your system user, configure Nginx, and serve files using a file server.
-Vist http://137.184.90.141
+
+Load Balancer (Index):
+http://209.38.173.216
+
+Load Balancer (Documents):
+http://209.38.173.216/documents
+
+Droplet 1 (Index):
+http://137.184.90.141
+
+Droplet 1 (Documents):
+http://137.184.90.141/documents
+
+Droplet 2 (Index):
+http://137.184.90.208
+
+Droplet 2 (Documents):
+http://137.184.90.208/documents
 
 ---
 
