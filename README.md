@@ -4,11 +4,8 @@
 
 Follow these instructions to set up your system user, configure Nginx, and serve files using a file server.
 
-Load Balancer (Index):
+Load Balancer:
 http://209.38.173.216
-
-Load Balancer (Documents):
-http://209.38.173.216/documents
 
 Droplet 1 (Index):
 http://137.184.90.141
